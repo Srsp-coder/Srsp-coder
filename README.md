@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Pranav S R</h1>
-<h3 align="center">A passionate developer from Chennai, India</h3>
+<h3 align="center">Aspiring software engineer based in Chennai, India</h3>
 
 ---
 
