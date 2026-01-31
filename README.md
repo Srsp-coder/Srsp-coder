@@ -72,12 +72,12 @@ and continuously improving my understanding of **core CS fundamentals**.
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Srsp-coder&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Srsp-coder&show_icons=true&theme=tokyonight" />
 
 </td>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srsp-coder&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Srsp-coder&layout=compact&theme=tokyonight" />
 
 </td>
 </tr>
