@@ -85,15 +85,6 @@ and continuously improving my understanding of **core CS fundamentals**.
 
 <hr/>
 
-<!-- ===================== ACTIVITY ===================== -->
-<h2>🔥 GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Srsp-coder&theme=tokyonight" />
-</p>
-
-<hr/>
-
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
   <sub>
